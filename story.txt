@@ -1,2 +1,7 @@
 This is how the employee management system project works:
-The user registers with the employee management system. On the registration form, the user fills in the following details (first name, last name, username, date of birth, and password). When the user logs in, he/she can view and edit own profile and can also view certain information about other users. The department and position field returns a default value of “Not assigned” on the logged-in user’s profile. Only the admin can assign or add a department and position to the registered user. The admin can also edit and delete a user. Both the admin and the regular user can search users of the system by first name or last name. Below is my GitHub link to the project:
+The user registers with the employee management system. 
+On the registration form, the user fills in the following details (first name, last name, username, date of birth, and password). 
+When the user logs in, he/she can view and edit own profile and can also view certain information about other users. 
+The department and position field returns a default value of “Not assigned” on the logged-in user’s profile. 
+Only the admin can assign or add a department and position to the registered user. 
+The admin can also edit and delete a user. Both the admin and the regular user can search users of the system by first name or last name.
