@@ -1,4 +1,4 @@
-This is how the employee management system project works:
+EMS SYSTEM
 The user registers with the employee management system. 
 On the registration form, the user fills in the following details (first name, last name, username, date of birth, and password). 
 When the user logs in, he/she can view and edit own profile and can also view certain information about other users. 
